@@ -1,0 +1,9 @@
+file_format: "1"
+id: tps45_test
+name: TPS45 Test Shield
+type: shield
+url: ""
+requires: [pro_micro]
+exposes: []
+features:
+  - pointer

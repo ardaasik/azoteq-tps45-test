@@ -1,0 +1,2 @@
+config SHIELD_TPS45_TEST
+    def_bool $(shields_list_contains,tps45_test)
